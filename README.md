@@ -13,6 +13,7 @@ Vue.js + express + sequelize  sample, todo6
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/vue_express_6
 
 ***
 
